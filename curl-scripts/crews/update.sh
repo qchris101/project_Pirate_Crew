@@ -1,12 +1,12 @@
 #!/bin/bash
 
-curl "http://localhost:8000/mangos/" \
+curl "http://localhost:8000/crews/${ID}/" \
   --include \
-  --request POST \
+  --request PATCH \
   --header "Content-Type: application/json" \
   --header "Authorization: Token ${TOKEN}" \
   --data '{
-    "mango": {
+    "crew": {
       "name": "'"${NAME}"'",
       "color": "'"${COLOR}"'",
       "ripe": "'"${RIPE}"'"
