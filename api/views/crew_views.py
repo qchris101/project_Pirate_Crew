@@ -41,6 +41,7 @@ class CrewDetailView(generics.RetrieveUpdateDestroyAPIView):
         """Show request"""
         # Locate the crew to show
         crew = get_object_or_404(Crew, pk=pk)
+
         # Only want to show owned crews
         if request.user != crew.owner:
             raise PermissionDenied('Unauthorized, you do not own this crew')

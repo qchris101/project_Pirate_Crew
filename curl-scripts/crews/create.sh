@@ -1,5 +1,5 @@
 #!/bin/bash
-# TOKEN="00551ae6fab2a0fb92c4c74a15a868b8469c7c9d" NAME=BeastPirates sh curl-scripts/crews/create.sh
+# TOKEN="b4c0cff8f8c5e0f2528187c3de375409f3f94098" NAME=BeastPirates90 sh curl-scripts/crews/create.sh
 curl "http://localhost:8000/crews/" \
   --include \
   --request POST \
