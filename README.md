@@ -3,18 +3,18 @@
 
 ---
 ## Links to Repos and Live client
-    [Frontend Repo](https://github.com/qchris101/project-pirate-crew-client)
-    [Backend Repo](https://github.com/qchris101/project_Pirate_Crew)
-    [Heroku deployed](https://project-pirate-crew.herokuapp.com)
-    [Live Client](https://qchris101.github.io/project-pirate-crew-client/)
+[Frontend Repo](https://github.com/qchris101/project-pirate-crew-client)
+[Backend Repo](https://github.com/qchris101/project_Pirate_Crew)
+[Heroku deployed](https://project-pirate-crew.herokuapp.com)
+[Live Client](https://qchris101.github.io/project-pirate-crew-client/)
 
 ---
 ## List of Technologies Used
-    Django rest_framework
-    Python
-    javaScript
-    React 
-    react-bootstrap-icons
+Django rest_framework
+Python
+javaScript
+React 
+react-bootstrap-icons
 
 
 
@@ -66,4 +66,4 @@ One Piece Pirate Crew Wireframe
  - once deleted client should not be able to see it.
 
 ## ERD
-[One Piece Crew](https://i.gyazo.com/99cb87b4eb28f1d4fb5e672ed3197706.png)
+![One Piece Crew](https://i.gyazo.com/99cb87b4eb28f1d4fb5e672ed3197706.png)
