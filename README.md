@@ -1,14 +1,14 @@
 <!-- [![One Piece Crew](img)](add-github-repo)  -->
 
 
-
+---
 ## Links to Repos and Live client
     [Frontend Repo](https://github.com/qchris101/project-pirate-crew-client)
     [Backend Repo](https://github.com/qchris101/project_Pirate_Crew)
     [Heroku deployed](https://project-pirate-crew.herokuapp.com)
     [Live Client](https://qchris101.github.io/project-pirate-crew-client/)
 
-
+---
 ## List of Technologies Used
     Django rest_framework
     Python
@@ -22,7 +22,7 @@
 ## The BackStory
    The world of One Piece is large and vast, with the creation of this application I wanted to give users the ability
    to create their own pirate crews to search through seven seas of One Piece.
-   
+
 ---
 ## Instructions
 MVP User Stories
