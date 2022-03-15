@@ -3,12 +3,9 @@
 
 ---
 ### Links to Repos and Live client
-- [Frontend Repo](https://github.com/qchris101/project-pirate-crew-client)|
-
-- [Backend Repo](https://github.com/qchris101/project_Pirate_Crew)|
-
-- [Heroku deployed](https://project-pirate-crew.herokuapp.com)|
-
+- [Frontend Repo](https://github.com/qchris101/project-pirate-crew-client)
+- [Backend Repo](https://github.com/qchris101/project_Pirate_Crew)
+- [Heroku deployed](https://project-pirate-crew.herokuapp.com)
 - [Live Client](https://qchris101.github.io/project-pirate-crew-client/)
 
 ---
