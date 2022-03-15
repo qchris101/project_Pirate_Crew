@@ -2,29 +2,32 @@
 
 
 ---
-## Links to Repos and Live client
- [Frontend Repo](https://github.com/qchris101/project-pirate-crew-client)
- [Backend Repo](https://github.com/qchris101/project_Pirate_Crew)
- [Heroku deployed](https://project-pirate-crew.herokuapp.com)
- [Live Client](https://qchris101.github.io/project-pirate-crew-client/)
+### Links to Repos and Live client
+- [Frontend Repo](https://github.com/qchris101/project-pirate-crew-client)|
+
+- [Backend Repo](https://github.com/qchris101/project_Pirate_Crew)|
+
+- [Heroku deployed](https://project-pirate-crew.herokuapp.com)|
+
+- [Live Client](https://qchris101.github.io/project-pirate-crew-client/)
 
 ---
-## List of Technologies Used
- Django rest_framework
- Python
- javaScript
- React 
- react-bootstrap-icons
+### List of Technologies Used
+ - Django rest_framework
+ - Python
+ - JavaScript
+ - React 
+ - React-bootstrap-icons
 
 
 
 ---
-## The BackStory
+### The BackStory
    The world of One Piece is large and vast, with the creation of this application I wanted to give users the ability
    to create their own pirate crews to search through seven seas of One Piece.
 
 ---
-## Instructions
+### Instructions
 MVP User Stories
 1. As an unregistered user, I would like to sign up with email and password.
 2. As a registered user, I would like to sign in with email and password.
@@ -37,7 +40,7 @@ MVP User Stories
 
 
 
-## WireFrame
+### WireFrame
 One Piece Pirate Crew Wireframe
 ![**One Piece Pirate Crew**](https://i.gyazo.com/805ff2313b1f40eff228548cde67f188.png)
 
@@ -67,3 +70,7 @@ One Piece Pirate Crew Wireframe
 
 ## ERD
 ![One Piece Crew](https://i.gyazo.com/99cb87b4eb28f1d4fb5e672ed3197706.png)
+
+### List of Known Issues
+- Loading spinner continues to load forever when no Crews have been created.
+- Adjusting Css and Styling for a better UX.
