@@ -1,8 +1,28 @@
 <!-- [![One Piece Crew](img)](add-github-repo)  -->
 
+
+
+## Links to Repos and Live client
+    [Frontend Repo](https://github.com/qchris101/project-pirate-crew-client)
+    [Backend Repo](https://github.com/qchris101/project_Pirate_Crew)
+    [Heroku deployed](https://project-pirate-crew.herokuapp.com)
+    [Live Client](https://qchris101.github.io/project-pirate-crew-client/)
+
+
+## List of Technologies Used
+    Django rest_framework
+    Python
+    javaScript
+    React 
+    react-bootstrap-icons
+
+
+
 ---
 ## The BackStory
-<!-- TODO: Add Backstory -->
+   The world of One Piece is large and vast, with the creation of this application I wanted to give users the ability
+   to create their own pirate crews to search through seven seas of One Piece.
+   
 ---
 ## Instructions
 MVP User Stories
@@ -19,7 +39,7 @@ MVP User Stories
 
 ## WireFrame
 One Piece Pirate Crew Wireframe
-![**One Piece Pirate Crew**]()
+![**One Piece Pirate Crew**](https://i.gyazo.com/805ff2313b1f40eff228548cde67f188.png)
 
 
  1. Client must be able to sign-up successfully
@@ -44,3 +64,6 @@ One Piece Pirate Crew Wireframe
 
  6. Client will be able to delete a Crew
  - once deleted client should not be able to see it.
+
+## ERD
+[One Piece Crew](https://i.gyazo.com/99cb87b4eb28f1d4fb5e672ed3197706.png)
